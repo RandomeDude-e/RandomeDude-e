@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RandomeDude-e
-- 👀 I’m interested in C++/C# and blender stuff
-- 🌱 I’m currently learning C++/C#
+- 👀 I’m interested in C++/C and blender stuff
+- 🌱 I’m currently learning C++/C
 - 📫 How to reach me Discord: 4ai_6
 - ⚡ Fun fact: I love cats
 
